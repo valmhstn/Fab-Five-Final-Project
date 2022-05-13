@@ -8,16 +8,27 @@ Wine Terms (Columns)
     Total acidity is divided into two groups :volatile acids and fixed acids.
 
     Fixed Acidity: Fixed acids found in wines: tartaric, malic, citric, and succinic.
-       Ratios: 1,000 to 4,000 mg/L tartaric acid, 0 to 8,000 mg/L malic acid, 0 to 500 mg/L citric acid, and 500 to 2,000 mg/L succinic acid.
+        Ratios: 1,000 to 4,000 mg/L tartaric acid, 0 to 8,000 mg/L malic acid, 0 to 500 mg/L citric acid, and 500 to 2,000 mg/L succinic acid.
     
-       Origin: all in grapes but succinic; succinic develops during fermentation
+        Origin: all in grapes but succinic; succinic develops during fermentation
 
-       Taste Variation: Wines from cool climate grapes: high in acidity,taste sour. 
+        Taste Variation: Wines from cool climate grapes: high in acidity,taste sour. 
           Wines from warm climate grapes can be low in acid, increasing acidity can help flatness.
     
-       Info: https://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity#:~:text=The%20predominant%20fixed%20acids%20found,2%2C000%20mg%2FL%20succinic%20acid.
+        Info: https://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity#:~:text=The%20predominant%20fixed%20acids%20found,2%2C000%20mg%2FL%20succinic%20acid.
     
-    Volatile Acidity:
+    Volatile Acidity: Steam distillable acids in wine: primarily acetic acid, also lactic, formic, butyric, and propionic acids.   
+    
+        Average Levels: Acetic acid  <400 mg/L in a new,dry table wine, typical levels from undetectable to 3g/L.
+
+        U.S. legal limits of Volatile Acidity: 
+            Red Table Wine 1.2 g/L
+            White Table Wine 1.1 g/L
+        
+        Aroma Threshold Acetic Acid:  Red wine from 600 mg/L and 900 mg/L. Acetic acid is generally considered a spoilage product (vinegar), but some winemakers seek a low or barely detectible level of acetic acid to add to the perceived complexity of a wine.
+
+        Info: https://waterhouse.ucdavis.edu/whats-in-wine/volatile-acidity
+
 
     Citric Acid Content:
 
