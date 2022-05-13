@@ -1,4 +1,5 @@
 Wine Terms (Columns)
+
     General Info: Acids > major constituents, contribute greatly to its taste. 
     Acid sourness/tartness is a fundamental feature in wine taste.  Wines lacking in acid are "flat."  
     
