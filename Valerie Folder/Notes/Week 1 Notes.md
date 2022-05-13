@@ -1,0 +1,11 @@
+# **Week 1 Notes**
+
+## May 12, 2022
+
+### I figured out how to create the repo and invited the team to join.
+
+---
+
+## May 13, 2022
+
+### I spent some time creating the files for the project proposal and Choosing Your Data today. I will spend some time later today looking at the dataset in regards to the questions we proposed/ Bethel wrote up
