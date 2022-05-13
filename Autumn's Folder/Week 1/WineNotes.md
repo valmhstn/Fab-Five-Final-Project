@@ -30,22 +30,71 @@ Wine Terms (Columns)
         Info: https://waterhouse.ucdavis.edu/whats-in-wine/volatile-acidity
 
 
-    Citric Acid Content:
+    Citric Acid Content: Citric acid is a weak organic acid, used as a preservative or additive (add sour taste)
 
-    Residual Sugar Content:
+        Properties: Elicits antimicrobial activity on molds and bacteria. It may create a relationship with antioxidants by chelating metal ions to prevent browning.
 
-    Chlorides:
+        In winemaking, the citric-sugar co-metabolism can also increase the formation of volatile acid in wine which can affect the wine aroma negatively if present at excessive levels.
 
-    Free Sulfur Dioxide:
+        Citric acid is often added to wines to increase acidity, complement a flavor, or give a fresh flavor. 
+        
+        Disadvantages: Disadvantage of adding citric acid is its microbial instability. Bacteria use citric acid in their metabolism, it may increase the growth of unwanted microbes. To increase acidity of wine, most winemakers will add tartaric acid instead.
+        
+        Info: https://wineserver.ucdavis.edu/industry-info/enology/methods-and-techniques/common-chemical-reagents/citric-acid
 
-    Total Sulfur Dioxide:
+    Residual Sugar Content: The sugars left unfermented in a finished wine (measured in grams per liter)
 
-    Density:
+        Labeling terms, still wines in the EU:
+        Up to 4 g/l---      Dry
+        4 g/l – 12 g/l---   Medium dry 
+        12 g/l – 45 g/l---  Medium (Medium sweet)
+        More than 45 g/l--- Sweet 
 
+        Info: https://www.decanter.com/learn/residual-sugar-46007/
+
+
+    Chlorides: Amount of sodium choride present in wine (mg/L)
+        Generally relatable to the salinity of the soil.
+
+        Lowest maximum legal threshhold for chloride ions is 364 mg/L, (sodium chloride as a compound 600 mg/L) 
+        Not dectectable in white wine until 570 mg/L
+        Not detectable in red wine until 520 mg/L
+
+        Note to self: Highest chloride value in our dataset is .611
+
+        Info: https://www.awri.com.au/wp-content/uploads/2018/08/s1530.pdf#:~:text=The%20higher%20extraction%20of%20chloride,juice%20x%201.7%20%3D%20606).
+
+
+    Free Sulfur Dioxide (FS02):
+
+        FS02 and the pH determine how much sulfur dioxide is available to protect the wine from oxidation.  
+        
+        Too much FSO2 can be perceptible to consumers, masking the wine’s aromas and inhibiting its ability  breathe. In high enough concentrations, contributing a sharp/metallic/bitter flavor or sensation.
+
+        FSO2 is more important for the overall protection of the wine, vs. Total Sulfur Dioxide
+
+        Info: https://www.extension.iastate.edu/wine/total-sulfur-dioxide-why-it-matters-too/
+
+
+    Total Sulfur Dioxide (S02): The SO2 that is free in the wine (+) portion that is bound to other chemicals in the wine.
+
+        Info: https://www.extension.iastate.edu/wine/total-sulfur-dioxide-why-it-matters-too/
+
+
+    Density: The density of wine juice is higher than water, it is thicker. The typical density of wine juice (before yeast reactions) is generally between 1.080 and 1.090 (8-9% more dense than water).
+
+    Alcohol is less dense that water, approximately 0.8, or 20% less dense. 
+    Aas the yeast consumes the sugar in the wine, and converts it to alcohol, the liquid is less dense. 
+    After fermentation, the specific gravity of wine should be slightly less than 1.00, usually 0.996. 
+
+        Info: http://www.creativeconnoisseur.com/newsletter/files/497deafe6be1b2efc87df8ac6071e459-162.html#:~:text=Quite%20obviously%20the%20density%20of,9%25%20more%20dense%20than%20water
+    
     pH:
 
     Sulphates:
 
-    Alcohol Content:
+    Alcohol Content: Measured by recording (starting specific gravity - final specific gravity) * 131
 
-    Quality
+        Info: http://www.creativeconnoisseur.com/newsletter/files/497deafe6be1b2efc87df8ac6071e459-162.html#:~:text=Quite%20obviously%20the%20density%20of,9%25%20more%20dense%20than%20water
+
+    Quality: 
