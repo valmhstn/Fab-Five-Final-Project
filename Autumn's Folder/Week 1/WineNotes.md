@@ -7,7 +7,9 @@ Wine Terms (Columns)
     
     Total acidity is divided into two groups :volatile acids and fixed acids.
 
-    Fixed Acidity: Fixed acids found in wines: tartaric, malic, citric, and succinic.
+    Fixed Acidity: most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
+    
+        Fixed acids found in wines: tartaric, malic, citric, and succinic.
         Ratios: 1,000 to 4,000 mg/L tartaric acid, 0 to 8,000 mg/L malic acid, 0 to 500 mg/L citric acid, and 500 to 2,000 mg/L succinic acid.
     
         Origin: all in grapes but succinic; succinic develops during fermentation
@@ -17,7 +19,9 @@ Wine Terms (Columns)
     
         Info: https://waterhouse.ucdavis.edu/whats-in-wine/fixed-acidity#:~:text=The%20predominant%20fixed%20acids%20found,2%2C000%20mg%2FL%20succinic%20acid.
     
-    Volatile Acidity: Steam distillable acids in wine: primarily acetic acid, also lactic, formic, butyric, and propionic acids.   
+    Volatile Acidity: amount of acetic acid in wine
+    
+        Steam distillable acids in wine: primarily acetic acid, also lactic, formic, butyric, and propionic acids.   
     
         Average Levels: Acetic acid  <400 mg/L in a new,dry table wine, typical levels from undetectable to 3g/L.
 
@@ -43,6 +47,7 @@ Wine Terms (Columns)
         Info: https://wineserver.ucdavis.edu/industry-info/enology/methods-and-techniques/common-chemical-reagents/citric-acid
 
     Residual Sugar Content: The sugars left unfermented in a finished wine (measured in grams per liter)
+    Rare to find wines with <1 g/L
 
         Labeling terms, still wines in the EU:
         Up to 4 g/l---      Dry
@@ -65,7 +70,7 @@ Wine Terms (Columns)
         Info: https://www.awri.com.au/wp-content/uploads/2018/08/s1530.pdf#:~:text=The%20higher%20extraction%20of%20chloride,juice%20x%201.7%20%3D%20606).
 
 
-    Free Sulfur Dioxide (FS02):
+    Free Sulfur Dioxide (FS02): free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion
 
         FS02 and the pH determine how much sulfur dioxide is available to protect the wine from oxidation.  
         
@@ -111,7 +116,7 @@ Wine Terms (Columns)
         Info: https://www.winemag.com/2019/06/19/what-is-acidity-in-wine/
 
 
-    Sulphates: Sulfates are salts of sulfuric acid.
+    Sulphates: Sulfates are salts of sulfuric acid. 
 
         Sulfates aren’t involved in wine production, but some beer makers use calcium sulfate—also known as brewers’ gypsum—to correct mineral deficiencies in water during the brewing process.
         ????Should this column really be labeled 'sulphates' then or 'sulfites'????

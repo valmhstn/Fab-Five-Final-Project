@@ -86,3 +86,37 @@ As listed in the UCI Repository: https://archive.ics.uci.edu/ml/datasets/wine+qu
    12 - quality (score between 0 and 10)
 
 8. Missing Attribute Values: None"
+----------------
+Units of Measurement for the Dataset from original research, 
+   retrieved from: https://www.scinapse.io/papers/2103459159#fullText
+
+   Unit Conversions: 1 cm3 = 0.001 L
+                     1 dm3 = 1 L
+
+                     1 mg = 0.001 g
+                     1 g/cm3 = 1000 g/L
+                     
+                     1 g/dm3 = 1 g/L
+                     1 mg/dm3= 1 Part/Million 
+
+   fixed acidity (g(tartaric acid)/dm3) 
+
+   volatile acidity (g(acetic acid)/dm3) 
+   
+   citric acid (g/dm3)
+
+   residual sugar (g/dm3)
+
+   chlorides (g(sodium chloride)/dm3) 
+   
+   free sulfur dioxide (mg/dm3) 
+   
+   total sulfur dioxide (mg/dm3) 
+
+   density (g/cm3) 
+
+   pH
+
+   sulphates (g(potassium sulphate)/dm3) 
+
+   alcohol (% vol.)
