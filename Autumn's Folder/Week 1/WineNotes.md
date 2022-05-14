@@ -89,12 +89,48 @@ Wine Terms (Columns)
 
         Info: http://www.creativeconnoisseur.com/newsletter/files/497deafe6be1b2efc87df8ac6071e459-162.html#:~:text=Quite%20obviously%20the%20density%20of,9%25%20more%20dense%20than%20water
     
-    pH:
+    pH: overall ranges on a scale from 0 -14, 0 being the most acidic, 7 being neutral, 14 being the most basic
+    
+        pH level of a wine typically ranges from 3 to 4.
 
-    Sulphates:
+        Color: Red wines with higher acidity >bright ruby color, lower pH gives them a red hue. 
+        Higher pH, less-acidic red wines can take on a blue or purple hue or even brown due to oxidation. 
+        Oxidation can be a problem regardless of pH, but the reaction occurs quicker at a higher pH.
+
+        Taste: Wine with high acid will usually taste crisper/more tart on the palate. 
+        A low-acid wine will feel smoother and rounder on the palate. 
+        
+        When done carefully, it can be a lovely, but when low acid is combined with high pH, a flabby or almost soapy feeling can be present.
+
+        High acid wines> more likely to improve with time. 
+        Stability of high acid/low pH wines helps during aging, but high pH wines are more prone to microbes.
+        That is corrected by adding S02. Takes a lot more sulfur dioxide to get the same effect in a wine at pH level of 4 as one with 10 times more acidity at pH level of 3.
+
+        Wines with higher pH require more sulfites to protect them from oxidation.
+
+        Info: https://www.winemag.com/2019/06/19/what-is-acidity-in-wine/
+
+
+    Sulphates: Sulfates are salts of sulfuric acid.
+
+        Sulfates aren’t involved in wine production, but some beer makers use calcium sulfate—also known as brewers’ gypsum—to correct mineral deficiencies in water during the brewing process.
+        ????Should this column really be labeled 'sulphates' then or 'sulfites'????
+
+        Wines in the United States are allowed to contain up to 350 parts per million (ppm) sulfites, but any wine with more than 10 ppm requires labeling. 
+
+        White wines: more sulfites, no skin contact during fermentation. 
+        
+        Red wines: color from extended contact with grape skins during fermentation. Grape skins contain tannins, polyphenols, and a variety of other antioxidants that keep wine from spoiling, and as a result, red wines typically don’t need as many added sulfites to stay fresh.
+
+        Info: https://www.amatteroftaste.com/wine/the-truth-about-sulfites-in-wine
+
+        https://www.winespectator.com/articles/difference-between-sulfites-sulfates-wine-54706#:~:text=Sulfates%20aren't%20involved%20in,preservative%20by%20inhibiting%20microbial%20growth.
+
 
     Alcohol Content: Measured by recording (starting specific gravity - final specific gravity) * 131
 
         Info: http://www.creativeconnoisseur.com/newsletter/files/497deafe6be1b2efc87df8ac6071e459-162.html#:~:text=Quite%20obviously%20the%20density%20of,9%25%20more%20dense%20than%20water
 
-    Quality: 
+    
+    Quality: It seems the wine quality score range used for this data is 1-10, with 1 being the worst, and 10
+    being the best.
