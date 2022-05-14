@@ -1,6 +1,7 @@
                                         Analysis Planning Worksheet
 
-Evaluation Question: Which physiochemical factors are have the most effect on the quality of wine? (determining which features to use in the classification model)
+Evaluation Question: Which physiochemical factors are have the most effect on the quality of wine? 
+                    (determining which features to use in the classification model)
 
 
 Independent Variable(s):
@@ -50,6 +51,7 @@ Unless they are related, you should have only one.
     
 
 
-Now that you know the type and number of independent and dependent variables, you are ready to use the analysis flow charts to choose your analysis!
+Now that you know the type and number of independent and dependent variables, 
+you are ready to use the analysis flow charts to choose your analysis!
 
     Analysis: Stepwise Linear Regression (check for mediation and moderation while running)
