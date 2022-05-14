@@ -2,16 +2,23 @@ Wine Quality Dataset appears to be a cleaned up dataset from the 'Red Wine Quali
 
 Context of 'Red Wine Quality' Dataset as listed on Kaggle (https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009):
 
-"This datasets is related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
+(copied and pasted from the site)
 
-"Vinho verde is a unique product from the Minho (northwest) region of Portugal. Medium in alcohol, is it particularly appreciated due to its freshness (specially in the summer). More details can be found at: http://www.vinhoverde.pt/en/"
+"This datasets is related to red variants of the Portuguese "Vinho Verde" wine. For more details, consult the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
 The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
 
 This dataset is also available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality."
+--------------------------------
+(copied and pasted from the site)
 
+"Vinho verde is a unique product from the Minho (northwest) region of Portugal. Medium in alcohol, is it particularly appreciated due to its freshness (specially in the summer). More details can be found at: http://www.vinhoverde.pt/en/"
 
+--------------------------------
 As listed in the UCI Repository: https://archive.ics.uci.edu/ml/datasets/wine+quality
+
+(copied and pasted from the site)
+
 "Citation Request:
   This dataset is public available for research. The details are described in [Cortez et al., 2009]. 
   Please include this citation if you plan to use this database:
