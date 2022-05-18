@@ -1,7 +1,7 @@
 ---
 title: "Wine Quality Feature Selection & Prediction Project"
 author: "Autumn Heyman, Bethel Ikejiofor, Erin Weaver, Georgia Miller, Valerie Huston"
-output: html_notebook
+output: rmarkdown::github_document
 ---
 
 Here we are taking a look at the quality of Vinho Verde wines within a region and select the more relevant physiochemical features that contribute to wine quality and in which ways. This will be achieved through the use of stepwise binary logistic regression.
