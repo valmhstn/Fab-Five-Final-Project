@@ -127,3 +127,25 @@ Insert Valerie's code.
 
 ```
 
+## Test for Independence of Errors
+
+### graph
+```{r}
+plot(mylogit$residuals)
+```
+We are looking for pretty even distribution of points all the way across the x axis. We have that, so have met the assumption of independent errors.
+
+### Durbin-Watson Test
+
+Just for the sake of double checking for independence errors:
+```{r}
+dwtest(mylogit, alternative="two.sided")
+```
+Output:
+Durbin-Watson test
+
+data:  mylogit
+DW = 1.8156, p-value = 0.001465
+alternative hypothesis: true autocorrelation is not 0
+
+Since DW value is within 1-3 range, we have met the assumption of independent errors. 
