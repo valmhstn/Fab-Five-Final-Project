@@ -20,6 +20,10 @@ library("dplyr")
 library("tidyr")
 library("popbio")
 library("e1071")
+library("PerformanceAnalytics")
+library("corrplot")
+library(corpcor)
+library("MASS")
 ```
 
 # Importing our Dataset
@@ -122,11 +126,6 @@ Most of the variables do not seem to have a linear logit relationship with wine 
 
 ## Multicollinearity
 
-```{r}
-install.packages("PerformanceAnalytics")
-library("PerformanceAnalytics")
-```
-
 ### Converting to Numeric
 ```{r}
 wine$qualityR2 <- as.numeric(wine$qualityR)
@@ -146,26 +145,22 @@ corr_matrix <- cor(wine_subset)
 corr_matrix
 ```
 ```{r}
-install.packages("corrplot")
-library("corrplot")
-
 corrplot(corr_matrix, type="upper", order="hclust", p.mat = corr_matrix, sig.level = 0.01, insig="blank")
 ```
 
 ## Testing for Multicollinearity
 ```{r}
-library(corpcor)
 cor2pcor(cov(wine_subset))
 cor2pcor(cov(wine_subset))
 ```
 
 ```{r}
-library("MASS")
 winecor <- ginv(cor(wine_subset))
 colnames(winecor) <- colnames(wine_subset)
 rownames(winecor) <- colnames(wine_subset)
 winecor
 ```
+
 ```{r}
 corrplot(corr = winecor, method = "number", is.corr = FALSE)
 ```
