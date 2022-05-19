@@ -2088,6 +2088,22 @@ causing multicollinearity to be present in the data.</p>
 across the x axis. We have that, so have met the assumption of
 independent errors.</p>
 </div>
+<div id="durbin-watson-test" class="section level3">
+<h3>Durbin-Watson Test</h3>
+<p>Just for the sake of double checking for independence errors:</p>
+<pre class="r"><code>dwtest(mylogit, alternative=&quot;two.sided&quot;)</code></pre>
+<pre><code>## 
+##  Durbin-Watson test
+## 
+## data:  mylogit
+## DW = 1.8156, p-value = 0.001465
+## alternative hypothesis: true autocorrelation is not 0</code></pre>
+<p>Output: Durbin-Watson test</p>
+<p>data: mylogit DW = 1.8156, p-value = 0.001465 alternative hypothesis:
+true autocorrelation is not 0</p>
+<p>Since DW value is within 1-3 range, we have met the assumption of
+independent errors.</p>
+</div>
 </div>
 <div id="screening-for-outliers" class="section level2">
 <h2>Screening for Outliers</h2>
@@ -2225,22 +2241,6 @@ summary(infl)</code></pre>
 <p>None of the <em>db.1_</em> or <em>dffit</em> values are greater than
 1, nor is <em>hat</em> greater than 0.3, so there is no evidence of
 outliers that need to be removed.</p>
-<div id="durbin-watson-test" class="section level3">
-<h3>Durbin-Watson Test</h3>
-<p>Just for the sake of double checking for independence errors:</p>
-<pre class="r"><code>dwtest(mylogit, alternative=&quot;two.sided&quot;)</code></pre>
-<pre><code>## 
-##  Durbin-Watson test
-## 
-## data:  mylogit
-## DW = 1.8156, p-value = 0.001465
-## alternative hypothesis: true autocorrelation is not 0</code></pre>
-<p>Output: Durbin-Watson test</p>
-<p>data: mylogit DW = 1.8156, p-value = 0.001465 alternative hypothesis:
-true autocorrelation is not 0</p>
-<p>Since DW value is within 1-3 range, we have met the assumption of
-independent errors.</p>
-</div>
 </div>
 </div>
 
