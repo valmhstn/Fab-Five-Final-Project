@@ -3,7 +3,7 @@
 ## Executive Summary
 
 The purpose of this document is to outline the flow and outcome of this project. This project will explore the quality of Vinho Verde wines within a region and select the more relevant physiochemical features that contribute to wine quality and in which ways. The assumption is that when wine quality is assessed and refined to produce more quality wines, sales within the region will increase. While assessing the sales data within the region is outside of the scope of this project, that is the assumption that is being made here. The one limitation of this project is that the wines sampled in this data excerpt are more reflective of normal wines, than excellent or poor.
-To conduct this analysis, the first portion will be feature selection using stepwise linear regression. Once the features are selected, the second portion of this project will be using classification to assess the individual features' effect on the quality. This project will require a project manager to ensure the project is moving along, a scrum master to make sure hurdles are overcome, a few data analysts to do some exploratory analysis, a few data scientists to make sure the machine learning model is robust and data visualization is accurate, and a business analyst to make sure that the project is meeting the requirements of the business.
+To conduct this analysis, the first portion will be feature selection using stepwise binary logistic regression. Once the features are selected, the second portion of this project will be using classification to assess the individual features' effect on the quality. This project will require a project manager to ensure the project is moving along, a scrum master to make sure hurdles are overcome, a few data analysts to do some exploratory analysis, a few data scientists to make sure the machine learning model is robust and data visualization is accurate, and a business analyst to make sure that the project is meeting the requirements of the business.
 The limitations of this project are there not being data on grape types, wine brand, or price point. The dataset is also limited in terms of size and the project deadline is somewhat limited. Risks are similar to the limitations within an addition of the dataset being imbalanced towards normal quality wines and the dataset being somewhat outdated (from 2009) so the physiochemical features back then might be different than they are today due to the effects of climate change.
 
 ## Business Objectives
@@ -20,7 +20,7 @@ Included in this scope is the factors affecting the quality of red wine in the V
 
 ## Functional requirements
 
-We will be using linear stepwise regression to analyse the importance of the given factors to the quality of wine listed. We will also be using K Mean to analyse how each factor with the most impact affects the quality of wine. There will be access to Tableau to see the visualization tables provided. There will be access to a powerpoint presentation for in-depth analysis outcomes of this project.
+We will be using stepwise binary logistic regression to analyse the importance of the given factors to the quality of wine listed. We will also be using K Mean to analyse how each factor with the most impact affects the quality of wine. There will be access to Tableau to see the visualization tables provided. There will be access to a powerpoint presentation for in-depth analysis outcomes of this project.
 
 
 ## Personnel requirements
