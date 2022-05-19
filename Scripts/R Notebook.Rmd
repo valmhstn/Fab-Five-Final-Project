@@ -129,6 +129,7 @@ Most of the variables do not seem to have a linear logit relationship with wine 
 ### Converting to Numeric
 ```{r}
 wine$qualityR2 <- as.numeric(wine$qualityR)
+head(wine)
 ```
 
 ### Subsetting Data
@@ -136,14 +137,16 @@ wine$qualityR2 <- as.numeric(wine$qualityR)
 wine_subset <- wine[, c(1,2,3,4,5,6,7,8,9,10,11,16)]
 ```
 
-### Testimg for Correlation
+### Testing for Correlation
 ```{r}
 chart.Correlation(wine_subset, histogram=FALSE, method="pearson")
 ```
+
 ```{r}
 corr_matrix <- cor(wine_subset)
 corr_matrix
 ```
+
 ```{r}
 corrplot(corr_matrix, type="upper", order="hclust", p.mat = corr_matrix, sig.level = 0.01, insig="blank")
 ```
