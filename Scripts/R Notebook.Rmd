@@ -181,14 +181,10 @@ plot(mylogit$residuals)
 
 We are looking for pretty even distribution of points all the way across the x axis. We have that, so have met the assumption of independent errors.
 
-## Screening for Outliers
-```{r}
-infl <- influence.measures(mylogit)
-summary(infl)
-```
 
 
-None of the *db.1_* or *dffit* values are greater than 1, nor is *hat* greater than 0.3, so there is no evidence of outliers that need to be removed.
+
+
 
 ### Durbin-Watson Test
 
@@ -205,3 +201,14 @@ alternative hypothesis: true autocorrelation is not 0
 
 
 Since DW value is within 1-3 range, we have met the assumption of independent errors. 
+
+## Screening for Outliers
+```{r}
+infl <- influence.measures(mylogit)
+summary(infl)
+```
+
+
+None of the *db.1_* or *dffit* values are greater than 1, nor is *hat* greater than 0.3, so there is no evidence of outliers that need to be removed.
+
+
