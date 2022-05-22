@@ -1,0 +1,35 @@
+When to Use Each Graph
+    
+    Categorical Data
+        
+        Pie chart: single categorical variable
+
+        Bar graph: single categorical variable
+
+        Stacked bar graph: two or more categorical variables
+
+        Pareto chart: single categorical variable, with multiple categories and counts for each category
+
+    Continuous Data
+
+        Histogram: single quantitative variable
+
+        Boxplot: single quantitative variable
+
+        Scatterplot: two quantitative variables
+
+        Line graph: two quantitative variables, one of which is time or distance
+
+
+    Categorical and Continuous Data:
+
+        Histogram with multiple groups
+
+        Side-by-side boxplots
+
+        Tree map: one qunatitative + one or more categorical variables
+
+        Heat map: at least one quantitative variable + one or more categorical variables
+
+
+
