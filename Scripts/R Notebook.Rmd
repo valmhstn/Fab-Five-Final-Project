@@ -127,12 +127,14 @@ Most of the variables do not seem to have a linear logit relationship with wine 
 ## Multicollinearity
 
 ### Converting to Numeric
+To ensure the data was continuous, I will covert the new quality column to s numeric column.
 ```{r}
 wine$qualityR2 <- as.numeric(wine$qualityR)
 head(wine)
 ```
 
 ### Subsetting Data
+I will create a data frame with the numeric quality column and the independent variables.
 ```{r}
 wine_subset <- wine[, c(1,2,3,4,5,6,7,8,9,10,11,16)]
 ```
