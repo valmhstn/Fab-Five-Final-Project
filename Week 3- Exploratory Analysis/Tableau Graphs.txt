@@ -20,4 +20,5 @@ Georgia:
 
 
 Valerie:
-
+Citric Acid: https://public.tableau.com/app/profile/valerie3806/viz/CitricAcid-FinalProject/Dashboard1#1
+pH: https://public.tableau.com/app/profile/valerie3806/viz/pH-FinalProject/Dashboard1
