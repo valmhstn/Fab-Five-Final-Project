@@ -2,6 +2,8 @@ Tableau Graph Links
 
 Autumn:
 Fixed Acidity: https://public.tableau.com/views/FixedAcidity_16534266598810/FixedAcidityDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Residual Sugars: https://public.tableau.com/views/ResidualSugars/ResidualSugarsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 
 Bethel:
