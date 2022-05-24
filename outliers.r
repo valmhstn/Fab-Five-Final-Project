@@ -14,10 +14,12 @@ wine1 = subset(wine, select = -c( 0,13))
 
 #all box plots
 boxplot(wine1)
-boxplot.stats(wine1$fixed.acidity)
+ggplot(stack(wine1), aes(x = ind, y = values))+
+  geom_boxplot(fill='rosybrown', color="darkred") +
+  coord_flip()
 
 #box plots by variable
-bp.fixed.acidity <- ggplot(wine, aes(x = "", y = fixed.acidity)) + geom_boxplot() + xlab("")
+bp.fixed.acidity <- ggplot(wine, aes(x = "", y = fixed.acidity)) + geom_boxplot(fill='rosybrown', color="darkred") + coord_flip() + xlab("")
 bp.fixed.acidity
 # numerous outliers present (44)
 # view outliers ($out)
