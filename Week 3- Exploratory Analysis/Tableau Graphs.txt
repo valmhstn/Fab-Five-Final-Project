@@ -8,7 +8,7 @@ Residual Sugars: https://public.tableau.com/views/ResidualSugars/ResidualSugarsD
 
 Bethel:
 Quality - https://public.tableau.com/views/CountofQuality/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
+Sulphates - https://public.tableau.com/views/WineSulphatesEDAFinalProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Erin:
 
