@@ -20,6 +20,8 @@ https://public.tableau.com/views/VolatileAcididtyDashboard/DASH-VolatileAcidity?
 
 
 Georgia:
+https://public.tableau.com/app/profile/georgia6578/viz/AlcoholGraphs/AlcoholScatterplot#1
+https://public.tableau.com/app/profile/georgia6578/viz/DensityGraphs/DensityScatterplot#1
 
 
 
