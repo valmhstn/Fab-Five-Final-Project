@@ -1,0 +1,29 @@
+Tableau Graph Links
+
+Autumn:
+Fixed Acidity: https://public.tableau.com/views/FixedAcidity_16534266598810/FixedAcidityDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Residual Sugars: https://public.tableau.com/views/ResidualSugars/ResidualSugarsDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+Bethel:
+Quality - https://public.tableau.com/views/CountofQuality/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+Erin:
+
+https://public.tableau.com/views/ChloridesDashboard/Dash-Chloride?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}}{\fldrslt \cf2 Chlorides}}\cf2 \
+https://public.tableau.com/views/TotalSulfurDioxideDashboard/Dash-TotalSulfurDioxide?:language=en-US&:display_count=n&:origin=viz_share_link"}}{\fldrslt Total Sulfur Dioxide}}\cf0 \
+https://public.tableau.com/views/FreeSulfurDioxideDashboard/DASH-FreeSulfurDioxide?:language=en-US&:display_count=n&:origin=viz_share_link"}}{\fldrslt Free Sulfur}}\
+https://public.tableau.com/views/VolatileAcididtyDashboard/DASH-VolatileAcidity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link"}}{\fldrslt Volatile Acidity}}\
+
+
+
+Georgia:
+
+
+
+Valerie:
+Citric Acid: https://public.tableau.com/app/profile/valerie3806/viz/CitricAcid-FinalProject/Dashboard1#1\
+
+pH: https://public.tableau.com/app/profile/valerie3806/viz/pH-FinalProject/Dashboard1\
